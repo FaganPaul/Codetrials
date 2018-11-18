@@ -1,2 +1,38 @@
 # Codetrials
 Basic website learning
+ul {
+    list-style-type: none;
+    margin: auto;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: green;
+    padding: 100px;
+}
+
+a.one {
+    color: yellow;
+}
+
+a.two {
+    color: red;
+}
+
+
+a.three {
+    color: purple;
+}
+a.four {
+    color: Grey;
+}
+
+h1 {
+    text-align: center;
+}
+git add.
+git commit -a
+git push
